@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1401570429 source:c:\users\monique\desktop\trabalho ed quase pronto\mainprova.c
+	<stdio.h>
+	<stdlib.h>
+	"No.h"
+	"Arquivos.h"
+
+1401568633 c:\users\monique\desktop\trabalho ed quase pronto\no.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1401568598 c:\users\monique\desktop\trabalho ed quase pronto\arquivos.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1401567891 source:c:\users\monique\desktop\trabalho ed quase pronto\no.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1401570569 source:c:\users\monique\desktop\trabalho ed quase pronto\arquivos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"No.h"
+
+1401570569 source:c:\users\moniq\documents\projects\arquivos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"No.h"
+
+1401568633 c:\users\moniq\documents\projects\no.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1401567891 source:c:\users\moniq\documents\projects\no.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1401590556 source:c:\users\moniq\documents\projects\mainprova.c
+	<stdio.h>
+	<stdlib.h>
+	"No.h"
+	"Arquivos.h"
+
+1401568598 c:\users\moniq\documents\projects\arquivos.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
